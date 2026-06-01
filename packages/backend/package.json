@@ -26,6 +26,7 @@
     "prisma": "^5.0.0",
     "supertest": "^6.0.0",
     "ts-jest": "^29.0.0",
+    "ts-node": "^10.9.2",
     "tsx": "^4.0.0",
     "typescript": "^5.0.0"
   }
